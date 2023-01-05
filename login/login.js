@@ -56,7 +56,7 @@ form.addEventListener("submit", function (e) {
 
   if (username.value !== "") {
     if (password.value !== "") {
-      window.location.href = "../index_sesudahLogin.html";
+      window.location.href = "../index_sesudahlogin.html";
     }
   }
 });
